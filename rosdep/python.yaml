@@ -1107,6 +1107,10 @@ python-freezegun-pip:
   ubuntu:
     pip:
       packages: [freezegun]
+python-funcy:
+  ubuntu:
+    pip:
+      packages: [funcy]
 python-future:
   debian: [python-future]
   fedora: [python-future]
@@ -2610,6 +2614,10 @@ python-pyxhook-pip:
   ubuntu:
     pip:
       packages: [pyxhook]
+python-qrcode:
+  ubuntu:
+    pip:
+      packages: [qrcode]
 python-qrencode:
   debian: [python-qrencode]
   gentoo: [media-gfx/qrencode-python]
